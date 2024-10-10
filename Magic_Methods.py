@@ -15,3 +15,6 @@ book2 = Book("The pathway to success", "unknown", 281)
 
 print(str(book1))
 print(str(book2))
+
+print(repr(book1))
+print(repr(book2))
