@@ -19,5 +19,3 @@ print(per1)
 
 # Deleting the objects
 
-del per1
-del per2
